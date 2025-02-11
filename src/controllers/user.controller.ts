@@ -67,6 +67,8 @@ const handleSocialLogin = asyncHandler(async (req: any, res: any) => {
   return null;
 });
 
+console.log('hahil');
+
 export {
   assignRole,
   changeCurrentPassword,
