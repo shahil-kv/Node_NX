@@ -58,3 +58,23 @@
 [11 Feb, 2025 - 23:15:24:1524] [35mhttp[39m: [35m::1 GET /swagger-ui.css 304 - 4.384 ms[39m
 [11 Feb, 2025 - 23:15:24:1524] [35mhttp[39m: [35m::1 GET /swagger-ui-standalone-preset.js 304 - 1.218 ms[39m
 [11 Feb, 2025 - 23:15:24:1524] [35mhttp[39m: [35m::1 GET /swagger-ui-init.js 304 - 1.342 ms[39m
+[14 Apr, 2025 - 06:31:41:3141] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[14 Apr, 2025 - 06:31:41:3141] [34minfo[39m: [34m⚙️  Server is running on port: undefined[39m
+[14 Apr, 2025 - 06:32:51:3251] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[14 Apr, 2025 - 06:32:51:3251] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[14 Apr, 2025 - 06:33:08:338] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[14 Apr, 2025 - 06:33:08:338] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[14 Apr, 2025 - 06:33:26:3326] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[14 Apr, 2025 - 06:33:26:3326] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[14 Apr, 2025 - 06:33:30:3330] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[14 Apr, 2025 - 06:33:30:3330] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[14 Apr, 2025 - 06:33:45:3345] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:4000[39m
+[14 Apr, 2025 - 06:33:45:3345] [34minfo[39m: [34m⚙️  Server is running on port: 4000[39m
+[14 Apr, 2025 - 06:33:58:3358] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:4000[39m
+[14 Apr, 2025 - 06:33:58:3358] [34minfo[39m: [34m⚙️  Server is running on port: 4000[39m
+[14 Apr, 2025 - 06:33:59:3359] [35mhttp[39m: [35m::1 GET / 200 - 3.859 ms[39m
+[14 Apr, 2025 - 06:34:00:340] [35mhttp[39m: [35m::1 GET /swagger-ui-init.js 200 - 4.919 ms[39m
+[14 Apr, 2025 - 06:34:00:340] [35mhttp[39m: [35m::1 GET /swagger-ui.css 200 - 13.877 ms[39m
+[14 Apr, 2025 - 06:34:00:340] [35mhttp[39m: [35m::1 GET /swagger-ui-standalone-preset.js 200 - 13.635 ms[39m
+[14 Apr, 2025 - 06:34:00:340] [35mhttp[39m: [35m::1 GET /swagger-ui-bundle.js 200 - 15.401 ms[39m
+[14 Apr, 2025 - 06:34:00:340] [35mhttp[39m: [35m::1 GET /favicon-32x32.png 200 - 0.522 ms[39m
